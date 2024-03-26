@@ -14,7 +14,7 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Guide',
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Example Guide', link: '/guides/example/' },
